@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://KaikMcpe12.github.io/NLW-Setup)
+- [Visite o projeto online](https://KaikMcpe12.github.io/Habits | NLW-Setup)
 
 ## 🔖 Layout
 
